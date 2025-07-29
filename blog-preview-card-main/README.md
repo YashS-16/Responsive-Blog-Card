@@ -25,7 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![]("C:\Users\Yash Sangale\OneDrive\Pictures\Screenshots\Blog Card.png")
+![]<img width="1367" height="909" alt="Blog Card" src="https://github.com/user-attachments/assets/75f7bad0-6e19-4d6b-8962-8d5c1ba46421" />
+
 
 ### Links
 
