@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/YashS-16)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:([https://your-live-site-url.com](https://responsive-blog-card-nesd-ejcrwxui0-yashs-16s-projects.vercel.app/))
 
 ## My process
 
